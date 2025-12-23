@@ -16,6 +16,7 @@ In addition to this, several higher current effuses are being researched for fut
 
 ### TPS2660 Custom Symbol
 ![TPS2660 Custom Symbol](Images/TPS2660_Efuse_Symbol.png)
+
 A custom symbol was created based off of the manufacturer datasheet. This was done in order to provide superior readability compared to the symbol offerred in Altium.
 
 ### TPS2660 General Setup
@@ -31,8 +32,11 @@ The MCU schematic is currently in progress and so far includes core pin connecti
 A dedicated buck converter steps down the LV voltage to 3.3V so that the MCU can safely operate.
 
 ## Tools and Skills Used
-- All schematics have been created through Altium Designer.
-- The MCU will be programmed using C or C++.
+- Altium Designer (Schematic Capture and PCB Design)
+- Microcontroller integration
+- Hardware documenation and Schematic Organization
+- Embedded Firmware Development(C or C++ planned)
+
 
 ## Project Status
 This project is currently ongoing, with completion expected around late February 2026.
